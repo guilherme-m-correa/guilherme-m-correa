@@ -3,6 +3,7 @@ src="https://gist.githubusercontent.com/guilherme-m-correa/e6621ac569da535d3a65a
 
 ### Hi there 👋, I'm Guilherme Corrêa
 
+- 🔥 Software Engineer enthusiast of the best web development technologies
 - 🔭 I’m currently working at [Onyma](https://github.com/Health-Inn)
 - 🌱 I’m currently learning ***Rust***
 - 💬 Ask me about ***Javascript, Typescript, Node.JS, React, HTML, CSS, SQL***
