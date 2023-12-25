@@ -27,3 +27,5 @@ src="https://gist.githubusercontent.com/guilherme-m-correa/e6621ac569da535d3a65a
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
+
+![guilherme-m-correa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-m-correa&theme=dark&show_icons=true&hide_border=true&layout=compact)
