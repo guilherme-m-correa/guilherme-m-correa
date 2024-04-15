@@ -2,7 +2,6 @@
 
 - 🔥 Software Engineer enthusiast of the best web development technologies
 - 🔭 I’m currently working at [Onyma](https://github.com/Health-Inn)
-- 🌱 I’m currently learning ***Rust***
 - 💬 Ask me about ***Javascript, Typescript, Node.JS, React, HTML, CSS, SQL***
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/guilherme-m-correa)
 
